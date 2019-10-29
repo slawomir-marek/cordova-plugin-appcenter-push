@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "cordova-plugin-appcenter-push-tests",
+  "version": "0.0.1",
+  "cordova": {
+    "id": "cordova-plugin-appcenter-push-tests",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  }
+}
